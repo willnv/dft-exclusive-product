@@ -1,5 +1,6 @@
 # Drift Exclusive Product
 "Plugin para Wordpress que permite um produto ser exibido apenas para um único usuário no Woocommerce"
+
 "Wordpress plugin to enable limiting products to a unique user in Woocommerce"
 
 
@@ -9,6 +10,8 @@ O produto em questão será omitido da página da loja, shortcodes de loop do Wo
 Já possui suporte ao modo AJAX de um plugin de filtro bastante utilizado, o "WOOF - Woocommerce Products Filter".
 # Como usar
 Basta ativar o plugin e um campo de seleção será criado nos dados do produto para a escolha do usuário.
+
+
 
 # English
 Plugin created so that pre-selected products can be attatched to a unique user and only be seen by them.
